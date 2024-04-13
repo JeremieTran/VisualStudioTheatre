@@ -1,0 +1,13 @@
+C:\Users\BTS SIO - 16\source\repos\TPDemo\bin\Debug\TPDemo.exe.config
+C:\Users\BTS SIO - 16\source\repos\TPDemo\bin\Debug\TPDemo.exe
+C:\Users\BTS SIO - 16\source\repos\TPDemo\bin\Debug\TPDemo.pdb
+C:\Users\BTS SIO - 16\source\repos\TPDemo\obj\Debug\TPDemo.csproj.AssemblyReference.cache
+C:\Users\BTS SIO - 16\source\repos\TPDemo\obj\Debug\TPDemo.Form1.resources
+C:\Users\BTS SIO - 16\source\repos\TPDemo\obj\Debug\TPDemo.Properties.Resources.resources
+C:\Users\BTS SIO - 16\source\repos\TPDemo\obj\Debug\TPDemo.csproj.GenerateResource.cache
+C:\Users\BTS SIO - 16\source\repos\TPDemo\obj\Debug\TPDemo.csproj.CoreCompileInputs.cache
+C:\Users\BTS SIO - 16\source\repos\TPDemo\obj\Debug\TPDemo.exe
+C:\Users\BTS SIO - 16\source\repos\TPDemo\obj\Debug\TPDemo.pdb
+C:\Users\Jérémie\source\repos\BilletTeatre\TPDemo\obj\Debug\TPDemo.exe
+C:\Users\Jérémie\source\repos\BilletTeatre\TPDemo\obj\Debug\TPDemo.pdb
+C:\Users\Jérémie\source\repos\BilletTeatre\TPDemo\obj\Debug\TPDemo.csproj.AssemblyReference.cache

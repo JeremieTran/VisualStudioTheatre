@@ -1,0 +1,16 @@
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\bin\Debug\net8.0-windows\ProjetTheatreCours.exe
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\bin\Debug\net8.0-windows\ProjetTheatreCours.deps.json
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\bin\Debug\net8.0-windows\ProjetTheatreCours.runtimeconfig.json
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\bin\Debug\net8.0-windows\ProjetTheatreCours.dll
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\bin\Debug\net8.0-windows\ProjetTheatreCours.pdb
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\obj\Debug\net8.0-windows\ProjetTheatreCours.Form1.resources
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\obj\Debug\net8.0-windows\ProjetTheatreCours.csproj.GenerateResource.cache
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\obj\Debug\net8.0-windows\ProjetTheatreCours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\obj\Debug\net8.0-windows\ProjetTheatreCours.AssemblyInfoInputs.cache
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\obj\Debug\net8.0-windows\ProjetTheatreCours.AssemblyInfo.cs
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\obj\Debug\net8.0-windows\ProjetTheatreCours.csproj.CoreCompileInputs.cache
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\obj\Debug\net8.0-windows\ProjetTheatreCours.dll
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\obj\Debug\net8.0-windows\refint\ProjetTheatreCours.dll
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\obj\Debug\net8.0-windows\ProjetTheatreCours.pdb
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\obj\Debug\net8.0-windows\ProjetTheatreCours.genruntimeconfig.cache
+C:\Users\Jérémie\source\repos\ProjetTheatreCours\ProjetTheatreCours\obj\Debug\net8.0-windows\ref\ProjetTheatreCours.dll
