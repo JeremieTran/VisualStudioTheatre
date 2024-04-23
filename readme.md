@@ -4,7 +4,7 @@ Description succincte du projet, liste des fonctionnalités, éléments de déma
 
 ## Module de réservation de Places de théâtre
 
-![alt text](https://github.com/JeremieTran/VisualStudioTheatre/blob/master/img/theatre.png)
+![alt text](https://github.com/JeremieTran/VisualStudioTheatre/blob/master/theatre.png)
 
 ## Prérequis
 
