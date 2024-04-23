@@ -1,6 +1,6 @@
 # Création d'une application lourde avec Visual Studio 
 
-Description succincte du projet, liste des fonctionnalités, éléments de démarquation des autres projets !
+Cette mission a pour objectif de créer avec Visual Studio un module applicatif permettant de consulter les places de théâtre libres en fonction des réservations.
 
 ## Module de réservation de Places de théâtre
 
